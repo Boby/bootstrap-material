@@ -8,29 +8,23 @@ the end of your document (just before the `</body>` tag), and everything will be
 
 ## Documentation
 
-- [Getting Started](https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/getting-started/introduction/)
-- [Building](https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/getting-started/build-tools/)
-- [Material Design components](https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/material-design/buttons/)
-- [Bootstrap default rendering reference documentation](https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/components/alerts/)
-- [Migration](https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/migration/)
-
+- [Getting Started](https://mdbootstrap.com/docs/b4/jquery/)
 
 ## Support
 
 The things to do are a lot and the time is little, if you are a passionate developer
 with experience with Bootstrap and Material Design for Bootstrap and you have some spare
 time, please consider becoming a contributor of this project!  
-If you are interested contact @FezVrasta or just adopt one of our [issues](https://github.com/FezVrasta/bootstrap-material-design/issues).
+If you are interested contact @boby or just adopt one of our [issues](https://github.com/Boby/bootstrap-material/issues).
 
-If you like this project you may support it by [donating](https://www.paypal.me/fezvrasta), starring this repository or reporting issues.  
-All issues filed should be reduced to a [CodePen](https://codepen.io/rosskevin/pen/eJMMVB) test case where possible.
+If you like this project you may support it by [donating](https://www.paypal.me/bobyui), starring this repository or reporting issues.
 
 
 ## Contributing
 
 ### Development
 If you want to get involved, please do so by submitting pull requests.  
-Before undertaking any major PR effort, please check the [existing issues](https://github.com/FezVrasta/bootstrap-material-design/issues).  
+Before undertaking any major PR effort, please check the [existing issues](https://github.com/Boby/bootstrap-material/issues).  
 If there isn't one, please file a new issue so we can discuss and assign the work so effort is not duplicated.  
 Thank you!
 
@@ -39,15 +33,13 @@ Please read through our [contributing guidelines](CONTRIBUTING.md). Included are
 
 Moreover, if your pull request contains JavaScript patches or features, you must include relevant unit tests. All HTML and CSS should conform to the [Code Guide](http://codeguide.co/), maintained by [Mark Otto](https://github.com/mdo), one of Bootstrap's founders.
 
-Editor preferences are available in the [editor config](https://github.com/FezVrasta/bootstrap-material-design/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org>.
-
 
 ## Versioning
 
 For transparency into our release cycle and in striving to maintain backward compatibility, this project is maintained under
 [the Semantic Versioning guidelines](https://semver.org/). Sometimes we screw up, but we'll adhere to those rules whenever possible.
 
-See [the Releases section of our GitHub project](https://github.com/fezvrasta/bootstrap-material-design/releases) for changelogs
+See [the Releases section of our GitHub project](https://github.com/Boby/bootstrap-material/releases) for changelogs
 of each release version.
 
 
