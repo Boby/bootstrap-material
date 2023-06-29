@@ -15,8 +15,8 @@
     "framework",
     "web"
   ],
-  "homepage": "https://github.com/FezVrasta/bootstrap-material-design",
-  "author": "Federico Zivolo",
+  "homepage": "https://github.com/Boby/bootstrap-material",
+  "author": "Boby Ui",
   "scripts": {
     "docs:compile": "bundle exec jekyll build",
     "docs:serve": "bundle exec jekyll serve",
@@ -38,10 +38,10 @@
   "main": "dist/js/bootstrap-material-design.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FezVrasta/bootstrap-material-design.git"
+    "url": "git+https://github.com/Boby/bootstrap-material.git"
   },
   "bugs": {
-    "url": "https://github.com/FezVrasta/bootstrap-material-design/issues"
+    "url": "https://github.com/Boby/bootstrap-material/issues"
   },
   "license": "MIT",
   "devDependencies": {
